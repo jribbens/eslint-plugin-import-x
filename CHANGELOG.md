@@ -1,5 +1,11 @@
 # eslint-plugin-import-x
 
+## 4.10.0
+
+### Minor Changes
+
+- [#271](https://github.com/un-ts/eslint-plugin-import-x/pull/271) [`6cba8eb`](https://github.com/un-ts/eslint-plugin-import-x/commit/6cba8eb6e920cc5bd04c54577cde0c77d9424819) Thanks [@JounQin](https://github.com/JounQin)! - feat: migrate to ESM primary
+
 ## 4.9.4
 
 ### Patch Changes
